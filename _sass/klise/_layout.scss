@@ -190,9 +190,13 @@
   }
 
   .author-avatar {
-    width: 70px;
-    height: 70px;
+    width: 250px;
+    height: 250px;
     border-radius: 100%;
+    border: solid;
+    border-width: 0.5vw;
+    border-radius: 100%;
+    border-color: #D989DA;
     user-select: none;
     background-color: $black;
     -ms-user-select: none;
@@ -212,6 +216,16 @@
     opacity: 0.9;
     max-width: 393px;
     line-height: 1.688;
+  }
+
+  .author-icons {
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+
+  .author-social {
+    margin: 10px;
+    display:inline;
   }
 }
 

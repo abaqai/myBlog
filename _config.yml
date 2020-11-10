@@ -1,25 +1,28 @@
 # Site settings
-title: Klise Theme # site title
+title: Ahmed Baqai # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Ahmed's Portfolio and Blog
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+timezone: Pacific Standard Time # set your timezone
+image: /assets/img/avatar.jpg # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/abaqai/myBlog.git # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Ahmed's Portfolio | Blog # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+    Hey, thank you for checking out my potfolio. You can find my professional experiences on my LinkedIn (Click Icon Below) or 
+    on my <a target='_blank' href="https://drive.google.com/file/d/1CzQvyNSRK7GIe_ljiGpG3TrwEMu-f_La/view?usp=sharing" target="_blank" rel="noopener">@resume</a>. If you just want to vibe with me, 
+    check out my music page or read my recent blog posts below. Or, we could get coffee! You can contact me by email: abaq@berkeley.edu or just
+    message me on one of the social media platforms below!
+  github: <a target='_blank' href="https://github.com/abaqai"><i class="fa fa-github fa-2x"></i></a> # github username
+  linkedin: <a target='_blank' href="https://www.linkedin.com/in/ahmed-baqai-601364176/"><i class="fa fa-linkedin fa-2x"></i></a> # facebook username
+  instagram: <a target='_blank' href="https://www.instagram.com/baqai_ahmed/"><i class="fa fa-instagram fa-2x"></i></a> # instagram username
+  spotify: <a target='_blank' href="https://open.spotify.com/user/21inj4qwsuu2d5u726pntodua"><i class="fa fa-spotify fa-2x"></i></a> # spotify username
+  tiktok: <a target='_blank' href="https://www.tiktok.com/@ahmedbaqai?lang=en"><i class="fa fa-tiktok fa-2x"></i></a> # tiktok username
+  snapchat: <a target='_blank' href="{{ site.baseurl }}/index.html"><i class="fa fa-snapchat fa-2x"></i></a> # snapchat username
+  email: abaq@berkeley.edu # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings

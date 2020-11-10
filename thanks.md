@@ -2,12 +2,16 @@
 title: Acknowledgment
 permalink: /thanks/
 layout: page
-excerpt: Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+excerpt: Thank you
 comments: false
 ---
 
-Thanks to amazing people that i met, who help me out from follishness, connecting me with another good person, giving some advice when i'm at a bad things, pulling me from ordinary to be great.
+Look Ma, I wrote a blog,
+
+But in all seriousness, this is just an acknowledgment post for all my friends and family. Just feeling grateful ☺️ !
+
+Also, thank you for checking out my blog!
 
 <hr>
 
-Hopefully the knowledge that I got from them can be useful, and become a charity for them, Aamiin.
+
